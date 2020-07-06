@@ -9,7 +9,7 @@ export KEYNAME=91179AA1A67CC24B34182F6DD31B19D84B2E120C
     set -e
     set -v
 
-    cd ./ubuntu/
+    cd ./repo/
 
     # Packages & Packages.gz
     dpkg-scanpackages --multiversion . > Packages
