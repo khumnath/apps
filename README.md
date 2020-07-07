@@ -1,6 +1,7 @@
 A PPA repository for debian based  linux packages:
 
-- [joincap](https://github.com/khumnath/apps)
+- [repository](https://github.com/khumnath/apps)
+- [my github home] (https://khumnath.github.io)
 
 
 # Usage
