@@ -1,7 +1,7 @@
 A PPA repository for debian based  linux packages:
 
 - [repository](https://github.com/khumnath/apps)
-- [my github home] (https://khumnath.github.io)
+- [my github home](https://khumnath.github.io)
 
 
 # Usage
