@@ -1,1 +1,1 @@
-deb https://khumnath.github.io/apps/repo ./
+deb https://khumnath.github.io/apps/debian ./ 
